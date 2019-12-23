@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.flax {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 50%;
+}
+
+img {
+}
+
+ul {
+    text-align: left;
+    margin: 28px 55px;
+}
+h1 {
+    font-size: 43px;
+}
+
+input[type="text"] {
+    width: 84%;
+    padding: 10px 0px;
+}
+
+form {
+    padding: 12px;
+}
+
+button {
+    padding: 10px 15px;
+    background: yellowgreen;
+    border: 1px solid;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 11px;
+    font-size: 20px;
+    color: black;
+}
