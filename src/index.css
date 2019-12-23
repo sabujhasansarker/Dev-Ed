@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', serif;
+	margin: 0;
+	padding: 0;
+}
+
+.hero.is-success {
+	background: #F2F6FA;
+	color: #4a4a4a;
+}
+
+.hero-body {
+	padding: 2rem 1.5rem;
+}
+
+.field {
+  margin: .5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.gpa {
+	justify-content: center;
+	margin: 1rem;
+}
+
+.footer-contact {
+	margin: 4rem;
+}
+.control {
+    margin: 0 1em;
+}
